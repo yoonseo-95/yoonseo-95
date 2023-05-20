@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Hi~I'm%20Yoonseo🙋&fontSize=30&fontAlign=20)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Hi~I'm%20Yoonseo🙋&fontSize=30&fontAlign=15.3)
+
+
+💻 Skills<br>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white" />
