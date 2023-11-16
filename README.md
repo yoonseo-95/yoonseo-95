@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Hi~I'm%20Yoonseo🙋&fontSize=30&fontAlign=15.3)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Hi~I'm%20Yoonseo👋&fontSize=30&fontAlign=15.3)
 
 
 💻 Skills<br>
